@@ -1,2 +1,1 @@
-# go-crud-api
-Practice Simple CRUD API 
+### Practice Simple CRUD API in golang
